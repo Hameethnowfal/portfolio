@@ -46,7 +46,6 @@ header button{
     padding: 10px 20px;
     cursor: pointer;
     border-radius: 5000px;
-    margin-left: 625px;
 }
 
 header button:hover{
@@ -102,7 +101,7 @@ section h2 {
     padding: 10px 20px;
     cursor: pointer;
     border-radius: 5000px;
-    margin-left: 650px;
+    margin-left: 80px;
 }
 
 .contact button:hover {
