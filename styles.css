@@ -101,7 +101,7 @@ section h2 {
     padding: 10px 20px;
     cursor: pointer;
     border-radius: 5000px;
-    margin-left: 30px;
+    margin-left: 0px;
 }
 
 .contact button:hover {
