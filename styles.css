@@ -95,8 +95,8 @@ section h2 {
 /* Contact */
 
 .contact button {
-    background: black;
-    color: #fff;
+    background: white;
+    color: black;
     border: none;
     padding: 10px 20px;
     cursor: pointer;
@@ -105,8 +105,8 @@ section h2 {
 }
 
 .contact button:hover {
-    background: #c800ff;
-    color: black;
+    background: black;
+    color: #fff;
     transition: 0.45s;
 }
 
