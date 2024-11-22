@@ -176,7 +176,7 @@ footer a:hover{
 
     .resume-btn {
         margin-top: 10px; /* Add spacing between nav links and button */
-        width: 100%; /* Make the button take full width on smaller screens */
+        width: 30%; /* Make the button to float on right in smaller screens */
         text-align: center;
     }
 
