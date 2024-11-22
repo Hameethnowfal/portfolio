@@ -45,12 +45,15 @@ header button{
     border: none;
     padding: 10px 20px;
     cursor: pointer;
-    border-radius: 5000px;
+    border: 2px solid white;
+    border-color: black;
+    border-radius: 50px;
 }
 
 header button:hover{
     background: #c800ff;
     color: white;
+    border: 2px solid white;
     transition: 0.45s;
 }
 
@@ -100,13 +103,14 @@ section h2 {
     border: none;
     padding: 10px 20px;
     cursor: pointer;
-    border-radius: 5000px;
-    margin-left: 0px;
+    border: 2px solid white;
+    border-color: white;
+    border-radius: 50px;
 }
 
 .contact button:hover {
-    background: black;
-    color: #fff;
+    background: white;
+    color: #c800ff;
     transition: 0.45s;
 }
 
