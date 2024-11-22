@@ -176,12 +176,12 @@ footer a:hover{
 
     .resume-btn {
         margin-top: 10px; /* Add spacing between nav links and button */
-        width: 30%; /* Make the button to float on right in smaller screens */
+        width: 40%; /* Make the button to float on right in smaller screens */
         text-align: center;
     }
 
     #contact button {
-        width: 100%; /* Make "Reach me on LinkedIn" button full-width */
+        width: 50%; /* Make "Reach me on LinkedIn" button half-width */
         margin-top: 10px;
     }
 }
